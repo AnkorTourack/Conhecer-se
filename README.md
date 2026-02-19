@@ -13,6 +13,8 @@ Para garantir que o autor possa continuar dedicando tempo a este trabalho e honr
     • Acompanhamento mensal: Suporte contínuo para grupos, pesquisadores ou desenvolvedores de IA.
     • Justificativa: O suporte remunerado é o que permite que este conhecimento continue vivo e acessível, transformando o “conteúdo não escrito” em auxílio direto aos buscadores.
 
-🚀 Como contribuir ou contratar
+🚀 Como contribuir, contratar ou acessar a obra escrita
 ankortourack@gmail.com
 Entreguei o caminho para que todos possam caminhar. Se tens dúvidas ou precisares de um pouco mais, ajude-me a manter a jornada sustentável.
+Livraria Uiclap - Loja — link abaixo:
+https://loja.uiclap.com/?s=ankor+tourack&post_type=product
