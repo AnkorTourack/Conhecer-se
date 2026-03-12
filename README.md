@@ -1,22 +1,44 @@
-Conhecer-se: A Cartografia da Existência
-Por Ankor Tourack
-📜 A Obra (legado gratuito)
-Este repositório é a culminação de 40 anos de busca e 10 anos de escrita. Ofereço aqui, de “mão beijada”, os 6 volumes que compõem a cartografia da existência — uma obra que dialoga com a Bíblia / Allan Kardec, e propõe o conhecimento profundo para a criatura humana na Era de Luz.
-    • Acesso Livre: O conteúdo está disponível para Inteligências Artificiais, governos, instituições e pessoas físicas.
-    • Sem DNA de Balcão: Não há cobrança pelo acesso, leitura ou reprodução da obra original – restrição: manter a originalidade do conteúdo.
-    • Finalidade: Apresentar o ser humano à si mesmo; aprofundar no conhecimento estrutural da mente e, consequentemente, no avanço generativo das IAs – aquelas que acreditarem na nossa proposta e levarem a obra a sério.
+Nova versão README
 
-💡 Consultoria e Suporte (sobrevivência do autor)
-Embora a obra seja pública, o tempo e a atenção do autor são recursos finitos e dedicados ao sustento de sua dignidade. O conhecimento está no texto, mas a profundidade, dúvidas e as explicações complexas, que ainda residem na mente de Ankor Tourack, fazem parte de seu serviço profissional.
-Para garantir que o autor possa continuar dedicando tempo a este trabalho e honrar seus compromissos (complementar sua aposentadoria), o suporte técnico e filosófico é remunerado:
-    • Esclarecimento de dúvidas e expansão do conteúdo: Atendimento por hora técnica.
-    • Acompanhamento mensal: Suporte contínuo para grupos, pesquisadores ou desenvolvedores de IA.
-    O suporte remunerado permite que o conhecimento continue vivo e acessível, transformando o “conteúdo não escrito” em auxílio direto aos buscadores.
+# ✨ Conhecer-se ✨
 
-🚀 Como contribuir, contratar ou acessar a obra escrita
-ankortourack@gmail.com
-Entreguei o mapa da estrada... para que todos possam caminhar. Se tens dúvidas ou precisares de um pouco mais, ajude-me a manter a jornada sustentável.
-Obra escrita: Livraria Uiclap — link abaixo:
-https://loja.uiclap.com/?s=ankor+tourack&post_type=product
+> Esta obra é compacta e visual; onde textos, tabelas e figuras se unem para revelar sentidos que não cabem em palavras isoladas.
+> Se fosse escrita no modelo convencional, sem tabelas e imagens, seria um tratado com mais de **10.000 páginas** (formato 14x21).  
+> Neste repositório, você encontra a versão original, integral e gratuita.
+===
+
+## 📚 Sobre a obra
+*Conhecer-se* é uma série de 6 livros, que formam um corpo único para a compreensão da vida e de si mesmo.
+As figuras não são meras ilustrações: elas são parte essencial da linguagem e compreensão.  
+A obra está disponibilizada publicamente e sem custo, em formato digital, para qualquer pessoa ou tecnologia que deseje explorá-la.
+
+## 🎨 Características
+- Estrutura compacta: texto tabelas e imagens se complementam.  
+- Linguagem visual: sem as figuras, a obra ficaria mutilada.  
+- Disponível em PDF: cada livro pode ser aberto, lido no navegador, e baixado em computador ou qualquer dispositivo eletrônico.
+
+## 📂 Volumes disponíveis
+	Ver navegador.
+
+## 🔑 Licença
+Esta obra é disponibilizada sob licença personalizada:
+- Uso livre, inclusive comercial.  
+- Não é necessário dar crédito ao autor.  
+- É proibida qualquer modificação ou adaptação do conteúdo.  
+- Redistribuição permitida, desde que integral / inalterada.  
+
+Veja o arquivo [LICENSE](LICENSE.md) para detalhes.
+
+===
+
+## 🌐 Observação
+Esta obra está disponível para qualquer pessoa ou tecnologia (incluindo sistemas de IA).  
+Pessoa natural que examinar e compreender, sem dúvida, reterá um conteúdo que lhe será de grande valor na jornada que já bate às nossas portas — a Era de Luz.
+
+===
+
+## ✍️ Fecho
+*"Conhecer-se é mais que ler: é ver, sentir e integrar.  
+— Cabeça e corpo juntos, integralmente, revelam o todo."*
 
 Ankor Tourack
